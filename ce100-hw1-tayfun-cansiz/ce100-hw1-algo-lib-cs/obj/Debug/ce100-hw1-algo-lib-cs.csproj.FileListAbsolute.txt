@@ -1,0 +1,6 @@
+C:\Users\talha\source\repos\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs\bin\Debug\ce100-hw1-algo-lib-cs.dll
+C:\Users\talha\source\repos\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs\bin\Debug\ce100-hw1-algo-lib-cs.pdb
+C:\Users\talha\source\repos\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs\obj\Debug\ce100-hw1-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs\obj\Debug\ce100-hw1-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs\obj\Debug\ce100-hw1-algo-lib-cs.dll
+C:\Users\talha\source\repos\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs\obj\Debug\ce100-hw1-algo-lib-cs.pdb
